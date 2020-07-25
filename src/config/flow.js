@@ -1,6 +1,5 @@
 module.exports =  {
-
-  flowOne: ["Olá", "Duvidas extrato de vendas", "Como consultar vendas no App","Sim","Nao","3","Estou fazendo apenas um teste","10"],
+  flowOne: ["o que você faz da vida", "você programa em alguma tecnologia", "React","Muito obrigado Wilkor","fale mais sobre você, por favor","Sim","massa!"],
 }
 
 
